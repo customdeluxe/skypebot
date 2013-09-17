@@ -28,7 +28,8 @@ class DorisCommand( BaseCommand ):
                             Template("invokes the no-dying clause."),
                             Template("writes some words."),
                             Template("reminds you of the Trojan Unicorn."),
-                            Template("likes the antlers.")
+                            Template("likes the antlers."),
+                            Template("brainwashes everyone.")
                             
  ]
 
